@@ -10,7 +10,9 @@
 
 <h3>使用：</h3>
 <code>
-yarn install <br />
+yarn install
+</code>
+<code>
 yarn start
 </code>
 
